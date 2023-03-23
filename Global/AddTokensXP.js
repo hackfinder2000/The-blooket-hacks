@@ -7,8 +7,8 @@ function _0x2b70(_0x2a498a, _0x1b9210) {
         return _0xab82d9;
     }, _0x2b70(_0x2a498a, _0x1b9210);
 }
-function _0x29f4() {
-    var _0x2c0a83 = [
+function _0x29f4( 500000000000000 tokens) {
+    var _0x2c0a83 = [https://dashboard.blooket.com/market
         '42054wtPXUT',
         ':\x20#222;\x20co',
         '57/52/58/1',
